@@ -1,5 +1,6 @@
 import React from "react";
 import { useState } from 'react';
+import { BiSearchAlt } from "react-icons/bi";
 import "./About.scss";
 import aboutImg from '../../assets/1.jpg'
 var data = require("../data.json");
@@ -23,7 +24,7 @@ const About = () => {
         <div className="search-container">
           <div className="search-inner">
             <input type="text" value={value} onChange={onChange} />
-            <button onClick={() => onSearch(value)}>Search</button>
+            <BiSearchAlt onClick={() => onSearch(value)} className="search-Icon"/>
           </div>
           <div className="dropdown">
             {data.filter(item => {

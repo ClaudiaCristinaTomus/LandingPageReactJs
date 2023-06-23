@@ -6,6 +6,8 @@ import { BrowserRouter as Router } from "react-router-dom";
 import About from './components/About/About';
 import Carousel from './components/Carousel/Carousel'
 import data from "./components/data.json"
+import Products from './components/Products/Products';
+import Footer from './components/Footer/Footer';
 
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
         <Header/>
         <About/>
         <Carousel/>
+        <Products/>
+        <Footer/>
       </Router>
     </div>
   );
