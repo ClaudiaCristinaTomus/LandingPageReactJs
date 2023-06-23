@@ -57,6 +57,7 @@ const Carousel = () => {
 
     return (
         <div className="container">
+            <h3 className="titleCarousel">The Most Favorite Drinks</h3>
             <Slider {...settings}>
                 <div className="card">
                 

@@ -1,15 +1,26 @@
 .container{
     width:70rem;
     margin: 0 auto;
+    .titleCarousel{
+        text-align: center;
+    }
     .card{
-        border:1px solid grey;
+        
         width:200px;
-        height: 300px;
+        height: 400px;
+        padding: 01rem;
         .card-body{
-            margin:0 3rem;
+            border:1px solid grey;
+            margin:1rem 3rem;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            
             img{
+                margin:1rem 0;
                 width:190px;
-                height: 220px;
+                height: 250px;
             }
         }
         
