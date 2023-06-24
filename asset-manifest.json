@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LandingPageReactJs/static/css/main.ff92a058.css",
+    "main.js": "/LandingPageReactJs/static/js/main.56e26fce.js",
+    "static/media/1.jpg": "/LandingPageReactJs/static/media/1.2c7f31a3298961219e25.jpg",
+    "static/media/6.jpg": "/LandingPageReactJs/static/media/6.c67191f2c9e7b01976c3.jpg",
+    "static/media/8.jpg": "/LandingPageReactJs/static/media/8.c6deed80c4ffb76cc647.jpg",
+    "static/media/11.jpg": "/LandingPageReactJs/static/media/11.0fa8581dd1021a4400f5.jpg",
+    "static/media/3.jpg": "/LandingPageReactJs/static/media/3.d24a90bde0ca81ce0599.jpg",
+    "static/media/9.jpg": "/LandingPageReactJs/static/media/9.eb6c5d36ed4c3d60465b.jpg",
+    "static/media/7.jpg": "/LandingPageReactJs/static/media/7.8d7397816e25d35eee76.jpg",
+    "static/media/2.jpg": "/LandingPageReactJs/static/media/2.137d9ed5656b2e26a566.jpg",
+    "static/media/5.jpg": "/LandingPageReactJs/static/media/5.5c86b752ebf9cf4f8676.jpg",
+    "static/media/slick.svg": "/LandingPageReactJs/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/LandingPageReactJs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/LandingPageReactJs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/LandingPageReactJs/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/LandingPageReactJs/index.html",
+    "main.ff92a058.css.map": "/LandingPageReactJs/static/css/main.ff92a058.css.map",
+    "main.56e26fce.js.map": "/LandingPageReactJs/static/js/main.56e26fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff92a058.css",
+    "static/js/main.56e26fce.js"
+  ]
+}
