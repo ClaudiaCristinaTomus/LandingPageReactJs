@@ -3,24 +3,27 @@
     margin: 0 auto;
     .titleCarousel{
         text-align: center;
+        color:rgb(91, 168, 223);
     }
     .card{
         
         width:200px;
         height: 400px;
-        padding: 01rem;
+        padding: 1rem;
         .card-body{
-            border:1px solid grey;
+            border:1px solid rgb(79, 141, 186);
             margin:1rem 3rem;
             display:flex;
             justify-content: center;
             align-items: center;
             flex-direction: column;
+            color:#061d40;
             
             img{
                 margin:1rem 0;
-                width:190px;
-                height: 250px;
+                width:200px;
+                height: 200px;
+                border-radius: 10%;
             }
         }
         

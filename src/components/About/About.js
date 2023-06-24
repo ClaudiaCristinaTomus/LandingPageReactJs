@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from 'react';
 import { BiSearchAlt } from "react-icons/bi";
 import "./About.scss";
-import aboutImg from '../../assets/1.jpg'
+import aboutImg from '../../assets/11.jpg'
 var data = require("../data.json");
 
 const About = () => {
